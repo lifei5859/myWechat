@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "注册",
+  "usingComponents": {
+    "my-input": "/components/MyInput/MyInput",
+    "my-form": "/components/MyForm/MyForm",
+    "my-form-item": "/components/MyForm/MyFormItem"
+  }
+}

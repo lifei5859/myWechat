@@ -1,0 +1,31 @@
+
+.wechat_login_wrapper.data-v-6cee2a61 {
+	height: 100%;
+	width: 100%;
+}
+.wechat_login_wrapper .login_title.data-v-6cee2a61 {
+	padding: 100rpx 0;
+	text-align: center;
+	font-weight: bold;
+	font-size: 50rpx;
+}
+.wechat_login_wrapper .login_info.data-v-6cee2a61 {
+	padding: 50rpx 50rpx;
+}
+.wechat_login_wrapper .login_info .in_user.data-v-6cee2a61 {
+	margin-bottom: 80rpx;
+}
+.wechat_login_wrapper .login_btn.data-v-6cee2a61 {
+	padding: 20rpx 40rpx;
+}
+.wechat_login_wrapper .reg_link_wrapper.data-v-6cee2a61 {
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	bottom: 20rpx;
+}
+.wechat_login_wrapper .reg_link_wrapper .reg_link.data-v-6cee2a61 {
+	display: inline;
+	color: #3F536E;
+}
+

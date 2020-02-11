@@ -1,0 +1,23 @@
+
+.my_input_wrapper.data-v-fb70d7ca {
+	position: relative;
+	-webkit-box-flex: 8;
+	-webkit-flex: 8;
+	        flex: 8; 
+	display: -webkit-box; 
+	display: -webkit-flex; 
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+}
+.my_input_wrapper input.data-v-fb70d7ca {
+	-webkit-box-flex: 5;
+	-webkit-flex: 5;
+	        flex: 5;
+	box-sizing: border-box;
+	font-size: 40rpx;
+	padding: 0 10rpx;
+}
+
